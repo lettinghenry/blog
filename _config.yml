@@ -22,14 +22,14 @@ footer-links:
   facebook: henry.letting.5
   flickr:
   github: github.com/lettinghenry
-  instagram: henryletting
-  linkedin: lettinghenry
+  instagram: 
+  linkedin:
   pinterest:
   rss: HL # just type anything here for a working RSS icon
-  twitter: @lettinghenry
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: lettinghenry0 # anything in your profile username that comes after plus.google.com/
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
